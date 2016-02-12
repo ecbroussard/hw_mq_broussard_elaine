@@ -8,4 +8,4 @@ I did not use any resources outside of the lectures and my notes on this assignm
 
 # Comments
 
-Good assignment but very simple. Will we be doing more complex ones later?s
+Good assignment but very simple. Will we be doing more complex ones later?
